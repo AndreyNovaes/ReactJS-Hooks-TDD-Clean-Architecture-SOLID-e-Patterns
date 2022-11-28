@@ -1,0 +1,20 @@
+{
+  "name": "reactjs-hooks-tdd-clean-architecture-solid-e-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreyNovaes/ReactJS-Hooks-TDD-Clean-Architecture-SOLID-e-Patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreyNovaes/ReactJS-Hooks-TDD-Clean-Architecture-SOLID-e-Patterns/issues"
+  },
+  "homepage": "https://github.com/AndreyNovaes/ReactJS-Hooks-TDD-Clean-Architecture-SOLID-e-Patterns#readme"
+}
