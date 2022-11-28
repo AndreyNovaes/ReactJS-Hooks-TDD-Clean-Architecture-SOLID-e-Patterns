@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AndreyNovaes/ReactJS-Hooks-TDD-Clean-Architecture-SOLID-e-Patterns/issues"
   },
-  "homepage": "https://github.com/AndreyNovaes/ReactJS-Hooks-TDD-Clean-Architecture-SOLID-e-Patterns#readme"
+  "homepage": "https://github.com/AndreyNovaes/ReactJS-Hooks-TDD-Clean-Architecture-SOLID-e-Patterns#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.4.0"
+  }
 }
