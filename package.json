@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/AndreyNovaes/ReactJS-Hooks-TDD-Clean-Architecture-SOLID-e-Patterns#readme",
   "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
     "@types/faker": "^6.6.9",
     "@types/jest": "^29.2.3",
     "@types/node": "^18.11.9",
