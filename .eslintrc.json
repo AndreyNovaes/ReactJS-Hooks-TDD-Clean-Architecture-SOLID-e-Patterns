@@ -18,5 +18,11 @@
         "react"
     ],
     "rules": {
+        "@typescript-eslint/indent": ["error", 4],
+        "@typescript-eslint/no-unused-vars": ["error", { "argsIgnorePattern": "^_" }],
+        "react/prop-types": "off",
+        "@typescript-eslint/consistent-type-definitions": ["error", "interface"],
+        "@typescript-eslint/explicit-function-return-type": "off",
+        "@typescript-eslint/strict-boolean-expressions": "off",
     }
 }
